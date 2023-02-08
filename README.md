@@ -41,3 +41,5 @@ concibió una memoria, un procesador aritmético, los medios de ingresar datos y
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Babbages_Analytical_Engine%2C_1834-1871._%289660574685%29.jpg/1200px-Babbages_Analytical_Engine%2C_1834-1871._%289660574685%29.jpg" alt="Motor Analitico" width="400" height="auto"></center>
 
 
+
+
