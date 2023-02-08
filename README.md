@@ -15,18 +15,20 @@ El ábaco es considerado como el primer instrumento elaborado por el hombre para
 especialmente para que fuera capaz de multiplicar y dividir de manera directa. -- <a href="https://www.youtube.com/watch?v=eMy4vSZ-J_I&ab_channel=MichaelHolzheu">Vídeo interesante</a> --
 </p>
 
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg" alt="Girl in a jacket" width="400" height="auto"></center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg" alt="Girl in a jacket" width="400" height="auto" align="center">
 
 <p align="justify">
 A principios del siglo XIX el ingeniero Joseph Marie Jacquard perfeccionó el concepto de tarjeta perforada, con el cual se podían “programar” las máquinas de tejer para que siguieran un patrón o diseño. Este concepto fue posteriormente utilizado en las máquinas de cómputo para decirles qué debían calcular.
 </p>
 
-<center><table border="0">
+
+<table border="0" align="center">
   <tr>
     <td><img src="https://www.muycomputer.com/wp-content/uploads/2019/12/Telar-de-Jacquard.jpg" alt="Girl in a jacket" width="400" height="auto"></td>
     <td><img src="https://mujeresconciencia.com/app/uploads/2018/06/cabinet_051_turner_christopher_schaffer_simon_002.jpg" alt="tarjetas perforadas" width="300" height="auto"></td>
   </tr>
-</table></center>
+</table>
+
 
 <p align="justify">
 La verdadera de la computadora fue la máquina llamada “motor de diferencias”,
