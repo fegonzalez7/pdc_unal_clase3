@@ -86,7 +86,7 @@ Newman fueron fundamentales para los desarrollos posteriores y se le considera e
 </p>
 
 <div align='center'>
-<figure> <img src="https://www.caracteristicasdel.com/wp-content/uploads/2020/09/Primera-Generacion-de-Computadoras...png" alt="" width="250" height="auto"/>
+<figure> <img src="https://www.caracteristicasdel.com/wp-content/uploads/2020/09/Primera-Generacion-de-Computadoras...png" alt="" width="250" height="auto"/></br>
 <figcaption><b>Computadora de primera generación.</b></figcaption></figure>
 </div>
 
@@ -94,7 +94,7 @@ Newman fueron fundamentales para los desarrollos posteriores y se le considera e
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/pr5BgJMr/image.png" alt="" width="200" height="auto"/>
+<figure> <img src="https://i.postimg.cc/pr5BgJMr/image.png" alt="" width="200" height="auto"/></br>
 <figcaption><b>Transistor como base de sistemas electrónicos digitales.</b></figcaption></figure>
 </div>
 
@@ -102,7 +102,7 @@ Newman fueron fundamentales para los desarrollos posteriores y se le considera e
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/x1n4bBSP/image.png" alt="" width="250" height="auto"/>
+<figure> <img src="https://i.postimg.cc/x1n4bBSP/image.png" alt="" width="250" height="auto"/></br>
 <figcaption><b>Computador Electrónico -VAX.</b></figcaption></figure>
 </div>
 
@@ -110,7 +110,7 @@ Newman fueron fundamentales para los desarrollos posteriores y se le considera e
 </p>
 
 <div align='center'>
-<figure> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apple_II_IMG_4212.jpg/500px-Apple_II_IMG_4212.jpg" alt="" width="250" height="auto"/>
+<figure> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apple_II_IMG_4212.jpg/500px-Apple_II_IMG_4212.jpg" alt="" width="250" height="auto"/></br>
 <figcaption><b>Apple 2.</b></figcaption></figure>
 </div>
 
@@ -118,7 +118,7 @@ Newman fueron fundamentales para los desarrollos posteriores y se le considera e
 </p>
 
 <div align='center'>
-<figure> <img src="https://www.racksolutions.com/news//app/uploads/AdobeStock_90603827-scaled.jpeg" alt="" width="250" height="auto"/>
+<figure> <img src="https://www.racksolutions.com/news//app/uploads/AdobeStock_90603827-scaled.jpeg" alt="" width="250" height="auto"/></br>
 <figcaption><b>Centro de datos con servidores.</b></figcaption></figure>
 </div>
 
@@ -145,7 +145,7 @@ comunicaciones, dispositivos de almacenamiento y dispositivo de cómputo.
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/c4r2QCX4/image.png" alt="" width="400" height="auto"/>
+<figure> <img src="https://i.postimg.cc/c4r2QCX4/image.png" alt="" width="400" height="auto"/></br>
 <figcaption><b>Arquitectura de Hardware.</b></figcaption></figure>
 </div>
 
@@ -153,7 +153,7 @@ comunicaciones, dispositivos de almacenamiento y dispositivo de cómputo.
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/mrRm6gN9/image.png" alt="" width="350" height="auto"/>
+<figure> <img src="https://i.postimg.cc/mrRm6gN9/image.png" alt="" width="350" height="auto"/></br>
 <figcaption><b>Dispositivos de Entrada.</b></figcaption></figure>
 </div>
 
@@ -161,7 +161,7 @@ comunicaciones, dispositivos de almacenamiento y dispositivo de cómputo.
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/C5Z7fBY3/image.png" alt="" width="350" height="auto"/>
+<figure> <img src="https://i.postimg.cc/C5Z7fBY3/image.png" alt="" width="350" height="auto"/></br>
 <figcaption><b>Dispositivos de Salida.</b></figcaption></figure>
 </div>
 
@@ -169,7 +169,7 @@ comunicaciones, dispositivos de almacenamiento y dispositivo de cómputo.
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/mDPp76yp/image.png" alt="" width="350" height="auto"/>
+<figure> <img src="https://i.postimg.cc/mDPp76yp/image.png" alt="" width="350" height="auto"/></br>
 <figcaption><b>Dispositivos de Almacenamiento.</b></figcaption></figure>
 </div>
 
@@ -181,7 +181,7 @@ comunicaciones, dispositivos de almacenamiento y dispositivo de cómputo.
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/8zCRFfHt/image.png" alt="" width="450" height="auto"/>
+<figure> <img src="https://i.postimg.cc/8zCRFfHt/image.png" alt="" width="450" height="auto"/></br>
 <figcaption><b>Diagrama esquemático del dispositivo de computo.</b></figcaption></figure>
 </div>
 
@@ -192,7 +192,7 @@ comunicaciones, dispositivos de almacenamiento y dispositivo de cómputo.
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/nVk9vcM5/image.png" alt="" width="450" height="auto"/>
+<figure> <img src="https://i.postimg.cc/nVk9vcM5/image.png" alt="" width="450" height="auto"/></br>
 <figcaption><b>Diagrama de funcionamiento de la CPU.</b></figcaption></figure>
 </div>
 
@@ -245,7 +245,7 @@ etc.). El programa (tanto códigos de instrucción como datos) es almacenado en 
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/x8Dr82V3/image.png" alt="" width="450" height="auto"/>
+<figure> <img src="https://i.postimg.cc/x8Dr82V3/image.png" alt="" width="450" height="auto"/></br>
 <figcaption><b>Lenguaje de máquina (binario).</b></figcaption></figure>
 </div>
 
@@ -260,7 +260,7 @@ capaz de traducir de lenguaje ensamblador a lenguaje de máquina.
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/zGMx8krn/image.png" alt="" width="450" height="auto"/>
+<figure> <img src="https://i.postimg.cc/zGMx8krn/image.png" alt="" width="450" height="auto"/></br>
 <figcaption><b>Lenguaje ensamblador.</b></figcaption></figure>
 </div>
 
@@ -276,7 +276,7 @@ se realiza mediante el uso de conceptos como el de variable.
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/brCQLzYQ/image.png" alt="" width="450" height="auto"/>
+<figure> <img src="https://i.postimg.cc/brCQLzYQ/image.png" alt="" width="450" height="auto"/></br>
 <figcaption><b>Lenguaje de alto nivel.</b></figcaption></figure>
 </div>
 
@@ -304,7 +304,7 @@ integrados de desarrollo.
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/m2PMBW25/image.png" alt="" width="450" height="auto"/>
+<figure> <img src="https://i.postimg.cc/m2PMBW25/image.png" alt="" width="450" height="auto"/></br>
 <figcaption><b>Arquitectura de Software Completa.</b></figcaption></figure>
 </div>
 
