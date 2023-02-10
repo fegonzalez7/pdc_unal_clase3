@@ -78,7 +78,7 @@ Newman fueron fundamentales para los desarrollos posteriores y se le considera e
 </p>
 
 <div align='center'>
-<figure> <img src="https://mechanicalcalculators.files.wordpress.com/2017/09/imgp6458.jpg?w=1400" alt="" width="250" height="auto"/>
+<figure> <img src="https://mechanicalcalculators.files.wordpress.com/2017/09/imgp6458.jpg?w=1400" alt="" width="250" height="auto"/></br>
 <figcaption><b>Máquina aritmética.</b></figcaption></figure>
 </div>
 
