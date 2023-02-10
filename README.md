@@ -295,7 +295,7 @@ procesadores de texto como Microsoft Word y Word Perfect y las hojas electrónic
 como Microsoft Excel y Lotus.
 </p>
 
-#### Herramientas
+### Herramientas
 <p align="justify">
 Una HERRAMIENTA es un software construido especialmente para el desarrollo de nuevo
 software, (tanto de aplicaciones como de herramientas). Ejemplos de herramientas son los
@@ -304,11 +304,39 @@ integrados de desarrollo.
 </p>
 
 <div align='center'>
-<figure> <img src="https://i.postimg.cc/m2PMBW25/image.png" alt="" width="450" height="auto"/></br>
+<figure> <img src="https://i.postimg.cc/m2PMBW25/image.png" alt="" width="650" height="auto"/></br>
 <figcaption><b>Arquitectura de Software Completa.</b></figcaption></figure>
 </div>
 
-
+<details><summary>Resumen (Spoiles)</summary><p>
+<ul>
+  <li>Las computadoras son un avance de los sencillos utensilios que el nombre uso para contar a
+principios de su historia.</li>
+  <li>El ábaco fué el primer calculador digital.</li>
+  <li>La máquina de Pascal inventada en 1642 fue la primera máquina calculadora.</li>
+  <li>La verdadera precursora de las computadoras electrónicas fue el “Motor de Diferencias”
+construida en 1922 por Charles Babbage.</li>
+  <li>En 1937 la IBM ayudó a Howard Aiken a crear el Mark I.</li>
+  <li>El Mark I y la Segunda Guerra Mundial desempeñaron papeles claves en el desarrollo de las
+computadoras norteamericanas.</li>
+  <li>El resultado fue el Eniac terminado en 1946 creado por un estudiante graduado Prespert Eckert
+y el físico John Mauchly.</li>
+  <li>Afines de los años 40 John Von Nuemann concibió la idea de que en la memoria coexistan datos
+con instrucciones. Alrededor de este concepto y el de control programado gira toda la evolución
+posterior de la industria de las computadoras.</li>
+  <li>Existen computadoras analógicas y digitales. Son computadoras digitales aquellas que manejan
+la información de manera discreta y son analógicas las que trabajan por medio de funciones
+continuas, generalmente representación de señales eléctricas.</li>
+  <li>El computador está constituido por Hardware y Software. El hardware es la parte física y el
+software la parte lógica.</li>
+  <li>Los componentes del hardware son: dispositivos de entrada, dispositivos de salida, dispositivos
+de almacenamiento, dispositivos de comunicación y dispositivo de cómputo (Unidad central de
+proceso, memoria, bus de datos y direcciones).</li>
+  <li>Desde la perspectiva de software el computador está constituido por: sistema operativo,
+conjunto de lenguajes a diferente nivel (lenguajes de máquina, ensambladores y alto nivel),
+aplicaciones y herramientas.</li>
+</ul>
+</p></details><br>
 
 <p align="justify">
 </p>
