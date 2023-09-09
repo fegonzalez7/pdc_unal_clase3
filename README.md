@@ -149,7 +149,7 @@ comunicaciones, dispositivos de almacenamiento y dispositivo de cómputo.
 <figcaption><b>Arquitectura de Hardware.</b></figcaption></figure>
 </div>
 
- - <p align="justify"> Dispositivos de entrada: Son aquellos que permiten el ingreso de datos a un computador. Entre estos se cuentan: teclados, ratones, scaners, micrófonos, cámaras fotográficas, cámaras de video, controles de juegos, lápices ópticos, y guantes de realidad virtual.
+ - <p align="justify"> Dispositivos de entrada: Son aquellos que permiten el ingreso de datos a un computador. Entre estos se cuentan: teclados, ratones, scanners, micrófonos, cámaras fotográficas, cámaras de video, controles de juegos, lápices ópticos, y guantes de realidad virtual.
 </p>
 
 <div align='center'>
@@ -308,7 +308,7 @@ integrados de desarrollo.
 <figcaption><b>Arquitectura de Software Completa.</b></figcaption></figure>
 </div>
 
-<details><summary>Resumen (Spoiles)</summary><p>
+<details><summary>Resumen (Spoilers)</summary><p>
 <ul>
   <li>Las computadoras son un avance de los sencillos utensilios que el nombre uso para contar a
 principios de su historia.</li>
