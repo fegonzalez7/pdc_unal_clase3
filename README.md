@@ -31,28 +31,41 @@ A principios del siglo XIX el ingeniero Joseph Marie Jacquard perfeccionó el co
 </table>
 
 <p align="justify">
-La verdadera de la computadora fue la máquina llamada “motor de diferencias”,
-construida en 1822 por Charles Babbage para calcular algoritmos y tablas astronómicas.
-Ésta máquina estaba dividida funcionalmente en dos grandes partes: una que
-ordenaba y otra que ejecutaba las órdenes. La que ejecutaba las órdenes era una versión muy
-ampliada de la máquina de Pascal, mientras que la otra era la parte clave. La innovación
-consistía, en que el usuario podía combinando las especificaciones de control, lograr que la misma máquina ejecutara operaciones complejas, diferentes a las hechas antes. Babbage
-concibió una memoria, un procesador aritmético, los medios de ingresar datos y/o instrucciones, así como una sección de producción que imprimiría los resultados.
+
+La primera computadora real fue el **"motor de diferencias"** de Charles Babbage, creada en 1822 para resolver algoritmos y calcular tablas astronómicas. Esta máquina innovadora estaba dividida en dos partes principales: una controlaba las instrucciones y otra las ejecutaba, similar a la lógica de una CPU moderna. La máquina funcionaba mediante un sistema de engranajes y ruedas dentadas, capaces de realizar sumas repetidas para calcular polinomios de alto grado, base de las tablas matemáticas. La entrada de datos y órdenes se realizaba manualmente, introduciendo valores a través de configuraciones de engranajes o mediante tarjetas perforadas. Estas tarjetas especificaban los parámetros del cálculo, permitiendo que la máquina ejecutara de forma automática operaciones repetitivas sin intervención humana.
 </p>
 
 <div align='center'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Babbages_Analytical_Engine%2C_1834-1871._%289660574685%29.jpg/1200px-Babbages_Analytical_Engine%2C_1834-1871._%289660574685%29.jpg" alt="Motor Analitico" width="300" height="auto"/>
 </div>
 
-<p align="justify">
-En 1937, Howard H. Aiken en unión con IBM crearon la “Calculadora Controlada de Secuencia Automática” conocida como el “Mark I”. El Mark I era un monstruo de cuatro y media toneladas métricas, con 78 aparatos independientes vinculados por unos 800 kilómetros de cable. En tres décimas de segundo podía efectuar sumas y restas de 23 dígitos y en cerca de 6 segundos podía multiplicar números de 23 dígitos.
-</p>
+### Mark I
 
-<p align="justify">
-En 1946, el ENIAC fue creado para el ejército norteamericano en la escuela Moore de
-Ingeniería Eléctrica, de la Universidad de Pennsylvania. Sus creadores fueron un estudiante
-graduado, J. Presper Eckert, y un físico, el Dr. John W. Mauchly. Juntos eliminaron la necesidad de las partes que se movían mecánicamente en la computadora central. En su lugar, adaptaron circuitos eléctricos de gatillo “flip-flop” y “pulsaciones” electrónicas para conectar o desconectar tubos al vacío, como interruptores. Como las interrupciones de este tipo podían hacerse miles de veces más rápido que los aparatos electro-mecánicos, el ENIAC constituyó un gran inicio hacia el desarrollo de las computadoras modernas.
-</p>
+**Funcionamiento**: El Mark I era una calculadora electromecánica basada en relés y motores que sincronizaban ruedas y engranajes para procesar datos en secuencia. Los datos y órdenes ingresaban mediante tarjetas perforadas, lo que permitía realizar operaciones automáticas controladas.
+
+**Inventores**: Howard Aiken, en colaboración con IBM.
+
+**Uso**: Utilizado para cálculos avanzados, como tablas de artillería.
+
+**Ejemplo de operaciones**:
+- **Suma y resta** de 23 dígitos: 0.3 segundos.
+- **Multiplicación**: 6 segundos.
+
+
+### ENIAC (Electronic Numerical Integrator and Computer)
+
+**Funcionamiento**: Empleaba 17,468 tubos de vacío y flip-flops, sustituyendo partes mecánicas por pulsos electrónicos para operaciones rápidas. Era reprogramable mediante cables y ajustes manuales.
+
+**Inventores**: J. Presper Eckert y John W. Mauchly.
+
+**Uso**: Utilizado por el ejército de EE. UU. para cálculos balísticos complejos.
+
+**Ejemplo de operaciones**:
+- **Suma**: 0.2 milisegundos.
+- **Multiplicación**: 2.8 milisegundos.
+
+El ENIAC marcó el avance hacia las computadoras digitales, mejorando velocidad y eficiencia.
+
 
 <table border="0" align="center">
   <tr>
@@ -188,8 +201,6 @@ comunicaciones, dispositivos de almacenamiento y dispositivo de cómputo.
 - <p align="justify"> La unidad central de proceso (CPU): es el ‘cerebro’ del computador, está encargada de realizar todos los cálculos, utilizando para ello la información almacenada en la memoria y de controlar los demás dispositivos, procesando las entradas y salidas provenientes y/o enviadas a los mismos. Mediante el bus de datos y direcciones, la CPU se comunica con los diferentes dispositivos enviando y obteniendo tales entradas y salidas. Para realizar su tarea la unidad central de proceso dispone de una unidad aritmético lógica, una unidad de control, un grupo de registros y opcionalmente una memoria caché para datos y direcciones.
 </p>
 
-- <p align="justify"> La unidad aritmético lógica (ALU) es la encargada de realizar las operaciones aritméticas y lógicas requeridas por el programa en ejecución, la unidad de control es la encargada de determinar las operaciones e instrucciones que se deben realizar, el grupo de registros es donde se almacenan tanto datos como direcciones necesarias para realizar las operaciones requeridas por el programa en ejecución y la memoria caché se encarga de mantener direcciones y datos intensamente usados por el programa en ejecución.
-</p>
 
 <div align='center'>
 <figure> <img src="https://i.postimg.cc/nVk9vcM5/image.png" alt="" width="450" height="auto"/></br>
@@ -220,8 +231,10 @@ alto nivel.
 **Software:** Es un conjunto de instrucciones que le dicen al hardware que hacer. El hardware por
 si solo no puede hacer nada.
 
+---
 **Lenguaje de programación:** Es un conjunto de reglas y estándares que es utilizado para
 escribir programas de computador (software), que puedan ser entendidos por él.
+---
 
 **Programa:** Es la representación de algún software en un lenguaje de programación específico.
 
@@ -285,22 +298,6 @@ Los COMPILADORES e INTERPRETES son software capaz de traducir de un lenguaje de 
 nivel al lenguaje ensamblador específico de una máquina. Los primeros toman todo el programa
 en lenguaje de alto nivel, lo pasan a lenguaje ensamblador y luego lo ejecutan. Los últimos
 toman instrucción por instrucción, la traducen y la van ejecutando.
-</p>
-
-### Aplicaciones
-<p align="justify">
-Una APLICACION es un software construido para que el computador realice una tarea
-específica y con el cual no se puede construir otro software. Ejemplos de aplicaciones son los
-procesadores de texto como Microsoft Word y Word Perfect y las hojas electrónicas de cálculo
-como Microsoft Excel y Lotus.
-</p>
-
-### Herramientas
-<p align="justify">
-Una HERRAMIENTA es un software construido especialmente para el desarrollo de nuevo
-software, (tanto de aplicaciones como de herramientas). Ejemplos de herramientas son los
-compiladores como Turbo C, Turbo Pascal y Dev C++, las herramientas CASE y los ambientes
-integrados de desarrollo.
 </p>
 
 <div align='center'>
